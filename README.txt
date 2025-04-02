@@ -54,3 +54,6 @@ Below is an overview of the contents of each folder.
 3. Figures and Tables Folder
 
    This folder contains the scripts used to generate the key figures and tables for the analysis. The visualizations and tabular summaries are critical for presenting the findings in the paper.
+
+License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
